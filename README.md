@@ -247,25 +247,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
----
-
-## 🙏 Agradecimentos
-
-- **Google ARCore Team** - Framework de Realidade Aumentada e exemplo base
-- **Android Community** - Suporte e documentação
-- **Kotlin Team** - Linguagem de programação moderna
-- **Contribuidores** - Todos que ajudaram no projeto
-- **Exemplo Hello AR Kotlin** - Base fundamental para este projeto
-
----
-
-## 📞 Contato
-
-- **Email**: seu-email@exemplo.com
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **LinkedIn**: [Seu Nome](https://linkedin.com/in/seu-perfil)
-
----
 
 <div align="center">
 
